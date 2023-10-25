@@ -1,2 +1,1 @@
-# toggle-button
-toggle button
+![image](https://github.com/Testers7777/toggle-button/assets/97400362/8517d6a3-6b8d-439d-8680-7940fda7f706) ![image](https://github.com/Testers7777/toggle-button/assets/97400362/36e532e7-95ee-40a5-a244-8e2f133f4240)
