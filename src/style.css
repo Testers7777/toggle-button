@@ -1,0 +1,14 @@
+button {
+  width: 130px;
+  border-radius: 40px;
+  border: none;
+  background-color: #444;
+}
+
+.circle {
+  height: 50px;
+  width: 50px;
+  clip-path: circle(40%);
+  transition: 0.3s ease-in-out;
+  background-color: greenyellow;
+}
